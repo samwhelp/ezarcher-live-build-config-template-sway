@@ -397,8 +397,8 @@ transmission-gtk
 xarchiver
 xdg-desktop-portal-gtk
 xfburn
-xfce4
-xfce4-goodies
+#xfce4
+#xfce4-goodies
 xpdf
 
 # Display Manager
